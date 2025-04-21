@@ -1,4 +1,4 @@
-# Web Company Profile
+# Web Absensi Siswa SMKN 1 MAJALENGKA
 Ini adalah proyek web statis sederhana yang dibuat oleh kelompok kami.
 
 Ketua :
