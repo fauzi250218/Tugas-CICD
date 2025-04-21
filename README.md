@@ -2,9 +2,9 @@
 Ini adalah proyek web statis sederhana yang dibuat oleh kelompok kami.
 
 Ketua :
-- Rachmat Fauzi Ramdhani : Membuat README.md, Home, dan styling baik css/js/dan
+- Rachmat Fauzi Ramdhani : Membuat README.md, Home, dan styling 
 assets
 - Rachmat Fauzi Ramdhani : Last membuat .github/workflows/deploy.yml
 
 Anggota :
-- Dede Deni Permana : Membuat About
+- Dede Deni Permana : Membuat Absensi siswa
